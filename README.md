@@ -1,4 +1,4 @@
-👨‍💻 Data engineering consultant 
+👨‍💻 Data engineering freelance consultant and instructor [Should we work together?](https://www.waitingforcode.com/static/work) 
 
 👨‍🏫 Instructor at [Become a Data Engineer](https://becomedataengineer.com/) 
 
