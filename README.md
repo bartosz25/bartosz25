@@ -2,6 +2,8 @@
 
 👨‍🏫 Instructor at [Become a Data Engineer](https://becomedataengineer.com/) 
 
+📚 Author of [Data Engineering patternson the cloud](https://dataengineeringpatternsonthecloud.com/)
+
 ✍️ Blogger at [waitingforcode](https://www.waitingforcode.com/)
 
 📹 Video maker at [waitingforcode](https://www.youtube.com/channel/UCnG0trQaGkSCUN4fSQwbSwA?view_as=subscriber)
