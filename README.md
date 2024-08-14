@@ -1,10 +1,11 @@
 👨‍💻 Freelance data engineer [Should we work together?](https://www.waitingforcode.com/static/work) 
 
-👨‍🏫 Trainer and instructor at [Courses and trainings]([https://becomedataengineer.com/](https://www.waitingforcode.com/better)) 
+👨‍🏫 Trainer and instructor at [Courses and trainings](https://www.waitingforcode.com/better)
 
 ✍️ Blogger at [waitingforcode](https://www.waitingforcode.com/)
 
-📚 Author of [Data Engineering Design Patterns (O'Reilly)]([https://dataengineeringpatternsonthecloud.com/](https://www.oreilly.com/library/view/data-engineering-design/9781098165826/))
+📚 Author of [Data Engineering Design Patterns (O'Reilly)](https://www.oreilly.com/library/view/data-engineering-design/9781098165826/)
+
 
 📚 Author of [Data Engineering patterns on the cloud (self-publishing)](https://dataengineeringpatternsonthecloud.com/)
 
